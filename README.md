@@ -105,7 +105,7 @@ The React dashboard runs at `http://localhost:5173`.
 
 ## 🎥 Application Demo
 
-https://youtu.be/eyyUXmFxxP0
+[![YouTube](http://i.ytimg.com/vi/eyyUXmFxxP0/hqdefault.jpg)](https://www.youtube.com/watch?v=eyyUXmFxxP0)
 
 ## 📂 Data Notes
 - `sample_shipments.csv`: Used to evaluate bypass eligibility
