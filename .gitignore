@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+*.pkl
+*.csv
+*.log
+
+# Node/React
+node_modules/
+frontend/.next/
+frontend/dist/
+
+# Environment
+.env
+.DS_Store
+
